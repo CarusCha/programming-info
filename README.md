@@ -4,7 +4,7 @@
 - [Frontend](#Frontend)
 - [DevOps](#DevOps)
 - [Mobile](#Mobile)
-- [Collaboration & Tools](#Collaboration-&-Tools)
+- [Collaboration & Tools](#Collaboration&Tools)
 - [Design](#Design)
 - [Data Science](#Data-Science)
 - [Hardware](#Hardware)
@@ -42,7 +42,7 @@
   - [Java]
   - [Kotlin]
 
-## Collaboration & Tools
+## Collaboration&Tools
 - [Git]
 - [Asana]
 
