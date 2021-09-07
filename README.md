@@ -4,12 +4,12 @@
 - [Frontend](#Frontend)
 - [DevOps](#DevOps)
 - [Mobile](#Mobile)
-- [Collaboration & Tools](#Collaboration & Tools)
+- [Collaboration & Tools](#Collaboration-&-Tools)
 - [Design](#Design)
-- [Data Science](#Data Science)
+- [Data Science](#Data-Science)
 - [Hardware](#Hardware)
-- [Online Learning](#Online Learning)
-- [Useful Websites](#Useful Websites)
+- [Online Learning](#Online-Learning)
+- [Useful Websites](#Useful-Websites)
 
 
 ## Backend
