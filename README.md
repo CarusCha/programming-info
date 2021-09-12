@@ -76,4 +76,5 @@
 - [Tinkercad](https://www.tinkercad.com) - 3D design
 - [Backjoon](https://www.acmicpc.net) - Coding workbook
 - [TIOBE](https://www.tiobe.com/tiobe-index) - Programming community index
-
+- [Code Academy](https://www.codecademy.com/) - Learning programming languages
+- [Udemy](https://www.udemy.com) - Learning programming languages
