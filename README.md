@@ -78,3 +78,4 @@
 - [TIOBE](https://www.tiobe.com/tiobe-index) - Programming community index
 - [Code Academy](https://www.codecademy.com/) - Learning programming languages
 - [Udemy](https://www.udemy.com) - Learning programming languages
+- [Microsoft rest api guidelines](https://github.com/microsoft/api-guidelines)
