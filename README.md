@@ -57,6 +57,8 @@
 - [w3Schools](https://www.w3schools.com)
 - [inflearn(인프런)](https://www.inflearn.com)
 - [Harvard Online Lectures](https://online-learning.harvard.edu)
+- [Code Academy](https://www.codecademy.com/)
+- [Udemy](https://www.udemy.com)
 
 ## Hardware
 - [Arduino]
@@ -76,6 +78,4 @@
 - [Tinkercad](https://www.tinkercad.com) - 3D design
 - [Backjoon](https://www.acmicpc.net) - Coding workbook
 - [TIOBE](https://www.tiobe.com/tiobe-index) - Programming community index
-- [Code Academy](https://www.codecademy.com/) - Learning programming languages
-- [Udemy](https://www.udemy.com) - Learning programming languages
 - [Microsoft rest api guidelines](https://github.com/microsoft/api-guidelines)
