@@ -59,6 +59,7 @@
 - [Harvard Online Lectures](https://online-learning.harvard.edu)
 - [Code Academy](https://www.codecademy.com/)
 - [Udemy](https://www.udemy.com)
+- [OpenVim](https://openvim.com/) - To learn VIM editor
 
 ## Hardware
 - [Arduino]
