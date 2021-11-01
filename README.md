@@ -29,6 +29,7 @@
 - [Cloud Service]
   - [AWS]
   - [GCP]
+  - [Heroku](https://www.heroku.com/) - free service for studying
 - [Database]
   - [MySQL]
   - [MariaDB]
